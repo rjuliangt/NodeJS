@@ -1,0 +1,3 @@
+Informacion que sera leida por fs.readFile
+ Agregando mas texto ar archivo
+ Agregando mas texto ar archivo
