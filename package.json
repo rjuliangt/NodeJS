@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Practicas sobre NodeJS",
+  "main": "FileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjuliangt/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjuliangt/NodeJS/issues"
+  },
+  "homepage": "https://github.com/rjuliangt/NodeJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
